@@ -6,7 +6,7 @@ Esta es la presentación de "Desarrollando mecánica de fluidos con python" dict
 :autor: Agustin Ferrario (@py_crash)
 :evento: Scipycon Argentina 2014
 :lugar: Universidad Nacional del Sur, Bahía Blanca, Argentina
-:fecha: 22 de octubre de 2014
+:fecha: 21 de octubre de 2014
 
 Abstract
 --------
